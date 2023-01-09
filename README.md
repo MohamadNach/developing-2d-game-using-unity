@@ -3,7 +3,8 @@
 ![](Pictures/Moh%20Land%201_9_2023%2011_47_46%20AM.png)
 
 ## Description:
-This project aim to create a two dimentions simple game using Unity game engine. [Sunny Land](https://assetstore.unity.com/packages/2d/characters/sunny-land-103349) is a free asset, which can be downloded from Unity Asset Store. The game consist of two levels build to work on Android and windows paltforms.
+
+This project aims to create a two dimensions simple game using the Unity game engine. [Sunny Land](https://assetstore.unity.com/packages/2d/characters/sunny-land-103349) is a free asset, which can be downloded from Unity Asset Store. The game consists of two levels built to work on Android and Windows platforms.
 
 ## How to play?
 <pre>
